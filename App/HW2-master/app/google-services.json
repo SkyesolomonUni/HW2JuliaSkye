@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611599600130",
+    "project_id": "avengersapp-fc51c",
+    "storage_bucket": "avengersapp-fc51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611599600130:android:0c099f3d64dcc3dc69751b",
+        "android_client_info": {
+          "package_name": "com.example.app.hw2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKAq3I0CutcNwtPjzua3_lHeFrFAEIU30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
